@@ -18,6 +18,9 @@ As you can see here, Urban cities had the highest fare totals each week, then Su
 
 ## Summary
 Here are some reccommendations I have for a CEO interested in making changes based on this analysis.  
+
 First, it seems that having more drivers keeps fare prices lower for citizens using ridesharing apps.  This trend could also be due to rides being shorter in these urban areas; however, it is something to keep in mind. 
+
 Also, it seems that each type of city had a significant peak in total rides towards the end of Februrary and the beginning of April.  Perhaps offering some kind of ride promotion would enable more rides during other months of the year.
+
 Finally, as rural cities seemed to have the least amount of total fares across the board.  It might be beneficial to again either offer promotions to people living in these areas, or increase marketing to these citizens in order to promote using these ridesharing companies as transportation more frequently. 
