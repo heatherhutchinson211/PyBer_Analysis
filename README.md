@@ -25,7 +25,7 @@ I created a visualization showing the relationship between ride fare and number 
 Finally I made a few pie charts representing the total number of fares, rides and drivers by city type, as shown below:
 ![Fig 5](https://github.com/heatherhutchinson211/PyBer_Analysis/blob/main/Fig5.png) ![Fig6](https://github.com/heatherhutchinson211/PyBer_Analysis/blob/main/Fig6.png) ![Fig7](https://github.com/heatherhutchinson211/PyBer_Analysis/blob/main/Fig7.png)
 
-
+Each total is greatest in Urban areas, followed by Suburban and Rural respectively.  
 
 
 
