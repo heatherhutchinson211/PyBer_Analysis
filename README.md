@@ -16,7 +16,12 @@ I then made some new analysis on total fares per city type, weekly, from January
 
 As you can see here, Urban cities had the highest fare totals each week, then Suburban followed by Rural. However, it is interesting to see that each city type had common peaks and dips. 
 
+
+I created a visualization showing the relationship between ride fare and number of rides in each of the 3 areas.  As you can see below, rides seemed to be cheapest in Urban areas, resulting in more rides taken in these areas. 
 ![fig1](https://github.com/heatherhutchinson211/PyBer_Analysis/blob/main/Fig1.png)
+
+
+
 
 ## Summary
 Here are some reccommendations I have for a CEO interested in making changes based on this analysis.  
