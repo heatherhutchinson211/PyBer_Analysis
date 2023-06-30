@@ -27,7 +27,7 @@ Finally I made a few pie charts showing blank blank and blank as shown below:
 
 ![Fig6](https://github.com/heatherhutchinson211/PyBer_Analysis/blob/main/Fig6.png)
 
-![Fig7]()
+![Fig7](https://github.com/heatherhutchinson211/PyBer_Analysis/blob/main/Fig7.png)
 
 
 
