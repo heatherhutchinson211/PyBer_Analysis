@@ -22,6 +22,16 @@ I created a visualization showing the relationship between ride fare and number 
 
 
 
+Finally I made a few pie charts showing blank blank and blank as shown below:
+![Fig 5]()
+
+![Fig6]()
+
+![Fig7]()
+
+
+
+
 
 ## Summary
 Here are some reccommendations I have for a CEO interested in making changes based on this analysis.  
