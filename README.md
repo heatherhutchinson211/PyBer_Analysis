@@ -14,7 +14,9 @@ I then made some new analysis on total fares per city type, weekly, from January
 
 ![Fares per City Type](https://github.com/heatherhutchinson211/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
 
-As you can see here, Urban cities had the highest fare totals each week, then Suburban followed by Rural. However, it is interesting to see that each city type had common peaks and dips.  
+As you can see here, Urban cities had the highest fare totals each week, then Suburban followed by Rural. However, it is interesting to see that each city type had common peaks and dips. 
+
+![fig1](https://github.com/heatherhutchinson211/PyBer_Analysis/blob/main/Fig1.png)
 
 ## Summary
 Here are some reccommendations I have for a CEO interested in making changes based on this analysis.  
