@@ -1,31 +1,22 @@
 # PyBer_Analysis
 
 ## Overview of Project
-The purpose of this analysis was to look at ride-sharing data from the files [city_data.csv] and [ride_data.csv], and to calculate averages and create visualiations based on the data.  These two files were combined into a single data frame before analysis begun.  The files included information from the year 2019, regarding drivers per city, city type, fares for each ride, and the dates these rides were taken. 
-
+The PyBer_Analysis project aims to analyze ride-sharing data from the provided files, [city_data.csv] and [ride_data.csv]. Using Python and the Pandas library, the analysis involves creating a summary DataFrame of the ride-sharing data by city type. Additionally, with the help of Pandas and Matplotlib, a multiple-line graph is generated to visualize the total weekly fares for each city type. The project concludes with a written report summarizing the differences in data across city types and how these differences can inform decision-making at PyBer.
 ## Results
-Using the provided data, I calculated total rides in the year 2019, total drivers, toal fares, average fare per ride and average fare per driver based on each city type: Urban, Suburban, and Rural. I then combined this data into a single data frame as shown here : 
 
+The analysis of the ride-sharing data revealed the following key findings:
+
+- The combined data from 2019 showed that urban cities had the highest number of rides and fares, followed by suburban and rural cities. Urban cities also had a significantly higher number of drivers. However, the average fare per ride and average fare per driver were lower in urban areas compared to suburban and rural areas.
 ![Summary Date Frame](https://github.com/heatherhutchinson211/PyBer_Analysis/blob/main/Screenshot%202022-12-15%20at%205.28.30%20PM.png)
 
-It is clear that there was a significantly higher amount of rides taken in Urban cities, resulting in a significantly higher fare total.  Suburban cities had the next highest total of rides and fare totals, with rural cities coming in last. The number of drivers in Urban cities was also significantly higher; however, average fares per ride and average fares per driver were much lower than in suburban and rural cities. 
-
-I then made some new analysis on total fares per city type, weekly, from January to April of 2019.  I represented this data visually using a line chart as shown below. 
-
+- The line chart representing the total fares per city type on a weekly basis from January to April 2019 demonstrated that urban cities consistently had the highest fare totals each week, followed by suburban and rural cities. Notably, all city types exhibited similar peak and dip patterns.
 ![Fares per City Type](https://github.com/heatherhutchinson211/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
 
-As you can see here, Urban cities had the highest fare totals each week, then Suburban followed by Rural. However, it is interesting to see that each city type had common peaks and dips. 
-
-
-I created a visualization showing the relationship between ride fare and number of rides in each of the 3 areas.  As you can see below, rides seemed to be cheapest in Urban areas, resulting in more rides taken in these areas. 
+- The visualization depicting the relationship between ride fare and the number of rides in each city type showcased that rides tended to be cheaper in urban areas, resulting in a higher volume of rides in those locations.
 ![fig1](https://github.com/heatherhutchinson211/PyBer_Analysis/blob/main/Fig1.png)
 
-
-
-Finally I made a few pie charts representing the total number of fares, rides and drivers by city type, as shown below:
+- The pie charts illustrating the total number of fares, rides, and drivers by city type indicated that urban cities had the largest share in each category, followed by suburban and rural cities.
 ![Fig 5](https://github.com/heatherhutchinson211/PyBer_Analysis/blob/main/Fig5.png) ![Fig6](https://github.com/heatherhutchinson211/PyBer_Analysis/blob/main/Fig6.png) ![Fig7](https://github.com/heatherhutchinson211/PyBer_Analysis/blob/main/Fig7.png)
-
-Each total is greatest in Urban areas, followed by Suburban and Rural respectively.  
 
 
 
