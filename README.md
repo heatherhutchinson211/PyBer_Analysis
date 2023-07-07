@@ -21,10 +21,12 @@ The analysis of the ride-sharing data revealed the following key findings:
 
 
 ## Summary
-Here are some reccommendations I have for a CEO interested in making changes based on this analysis.  
+Based on the analysis, the following recommendations are proposed for PyBer's decision-makers:
 
-First, it seems that having more drivers keeps fare prices lower for citizens using ridesharing apps.  This trend could also be due to rides being shorter in these urban areas; however, it is something to keep in mind. 
+1. Consider the relationship between the number of drivers and fare prices: The higher number of drivers in urban areas correlates with lower fare prices. This information can be utilized to optimize the number of drivers in each city type, balancing supply and demand.
 
-Also, it seems that each type of city had a significant peak in total rides towards the end of Februrary and the beginning of April.  Perhaps offering some kind of ride promotion would enable more rides during other months of the year.
+2. Leverage peak periods: The analysis revealed a significant surge in total rides during the latter part of February and the beginning of April. PyBer can capitalize on these peak periods by offering promotions or incentives to increase ride usage during other months, boosting business throughout the year.
 
-Finally, as rural cities seemed to have the least amount of total fares across the board.  It might be beneficial to again either offer promotions to people living in these areas, or increase marketing to these citizens in order to promote using these ridesharing companies as transportation more frequently. 
+3. Target rural cities: As rural cities demonstrated the lowest total fares across all metrics, PyBer should explore strategies to increase ride frequency in these areas. This could involve targeted promotions or enhanced marketing efforts to raise awareness and encourage rural residents to utilize ride-sharing services as a viable transportation option.
+
+By implementing these recommendations, PyBer can enhance its operational efficiency, optimize pricing strategies, and expand its customer base across various city types.
